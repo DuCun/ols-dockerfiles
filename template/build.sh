@@ -4,7 +4,7 @@ PHP_VERSION=''
 PUSH=''
 CONFIG=''
 TAG=''
-BUILDER='litespeedtech'
+BUILDER='xiaomoy'
 REPO='openlitespeed'
 EPACE='        '
 
