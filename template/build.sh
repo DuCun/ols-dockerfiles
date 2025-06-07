@@ -5,7 +5,7 @@ PUSH=''
 CONFIG=''
 TAG=''
 BUILDER='litespeedtech'
-REPO='openlitespeed'
+REPO='xiaomoy'
 EPACE='        '
 ARCH='linux/amd64'
 
